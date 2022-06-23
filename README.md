@@ -19,3 +19,4 @@ A fourm where gamers can discuss video games and the platforms they play on.
 - create temp post (ability to ask for others to play with)
 - add friends
 - dms
+- add reactions
